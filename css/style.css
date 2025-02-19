@@ -137,7 +137,9 @@ article p{
     padding: 50px;
 }
 
-#servicos p{    
+#servicos p{
+    width: 100%;
+    max-width: 600px;
     margin-bottom: 30px;
 }
 
